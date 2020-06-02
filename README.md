@@ -4,5 +4,5 @@ Set of bunk bed drawers for storage under the bed. The bunk bed this is designed
 Heavily inspired by and designed based on the [Hat-Systems](https://github.com/fellesverkstedet/hat-systems) by the lovely people at Fellesverksteded. 
 
 # License
-Like it's cousin Bunk Drawers are distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
+Like it's cousin, the Bunk Drawers are distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
