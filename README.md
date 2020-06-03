@@ -6,3 +6,5 @@ Heavily inspired by and designed based on the [Hat-Systems](https://github.com/f
 # License
 Like it's cousin, the Bunk Drawers are distributed under Creative Commons Attribution 4.0 International. [CC-BY 4.0](http://creativecommons.org/licenses/by/4.0/).
 
+# Design changes
+Since this drawer set is not required to be nearly as steardy as the original and I wanted to maximize the storage space, I've chosen to only have one vertical divider piece between drawers. This required me to add two variations of the vertical pieces and sliders.
