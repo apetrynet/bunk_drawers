@@ -10,4 +10,8 @@ Like it's cousin, the Bunk Drawers are distributed under Creative Commons Attrib
 Since this drawer set is not required to be nearly as steardy as the original and I wanted to maximize the storage space, I've chosen to only have one vertical divider piece between drawers. This required me to add two variations of the vertical pieces and sliders.
 
 # Preview
+Bunk Drawers Frame
 ![Bunk Drawers Frame](exports/bunk_drawers_frame.png)
+
+Bunk Drawer
+![Bunk Drawer](exports/bunk_drawer.png)
