@@ -1,5 +1,7 @@
-# Work In Progress
-These drawers are still under development and have a few bugs to iron out before they're ready to go, so please be ware..
+# TODO
+- [ ] create cross sections
+- [ ] create cut sheet DXF
+- [ ] create technical drawings
 
 # Bunk Drawers
 Set of bunk bed drawers for storage under the bed. The bunk bed this is designed for is also custom made so adjustements must be done in the spreadsheet of the FreeCad file to fit under your bunks.
