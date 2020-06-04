@@ -18,3 +18,6 @@ Bunk Drawers Frame
 
 Bunk Drawer
 ![Bunk Drawer](exports/bunk_drawer.png)
+
+Assembled
+![Bunk Drawers Frame](exports/bunk_drawers_assembled.png)
